@@ -34,4 +34,12 @@ see how to work with them.
 - What are the differences between `.getElementById`,
   `.getElementsByClassName`, `.getElementsByTagName`, and
   `querySelectorAll`?
+
+ ## gets id, gets class, gets by tag, gets all of something you call as your selector
+
+
 - How did you loop over the lists of elements?
+
+## used a for loop like a cool guy
+
+

@@ -32,9 +32,17 @@ using the techniques we've already learned?
 - Perhaps that's better.
 - Change it back to `img/dom_model.svg` for comparison's sake.
 
+##diagram.setAttribute('src', 'img/dom_basic.png')
+
 ## Questions
 
 - Why do we use `.innerHTML` to change the heading but `.setAttribute`
   to change the diagram?
+
+## innerHTML helps us change the content within the tag.setAttribrute allows us to change the content within the tag, in this case the src.
+
+
 - What was different about the way we changed the `style` of the image
   from the way we changed its `src`?
+
+## there really is no difference....

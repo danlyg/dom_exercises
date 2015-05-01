@@ -55,6 +55,19 @@ mouse moves, when keys are pressed, and when forms are submitted.
 ## Questions
 
 - What does `event.preventDefault()` do?
-- Why do we listen for the `submit` event on a `<form>` instead of
-  listening for the `click` event on the submit button?
+
+##Cancels the event if it is cancelable, without stopping further propagation of the event.
+
+- Why do we listen for the `submit` event on a `<form>` instead of listening for the `click` event on the submit button?
+
+## we want to retrieve the input of the form
+## NOT SURE ASK
+
+
 - What does the `window`'s `load` event allow us to do?
+
+
+## All the work you do with DOM events requires you to wait for the window to be loaded.
+
+
+
